@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "393077336317",
+    "firebase_url": "https://teamapp-7d084.firebaseio.com",
+    "project_id": "teamapp-7d084",
+    "storage_bucket": "teamapp-7d084.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393077336317:android:b731fafbf5dedfaa",
+        "android_client_info": {
+          "package_name": "com.teamapp.teamapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393077336317-e9dkbdcjvfjf79ur9hc7a6n1si44i5kl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-izbuHvEaDwdegJSCcQ2BG-rY-pT0Yik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393077336317-e9dkbdcjvfjf79ur9hc7a6n1si44i5kl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
